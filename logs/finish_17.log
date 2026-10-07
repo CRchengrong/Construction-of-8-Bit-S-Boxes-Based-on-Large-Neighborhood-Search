@@ -1,0 +1,24 @@
+init pool 47
+round    1 | pool   484 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 47 du6 47 nw8 47 | 0.39s/it
+round    2 | pool   919 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 48 du6 49 nw8 49 | 0.39s/it
+round    3 | pool  1349 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 49 du6 52 nw8 51 | 0.39s/it
+round    4 | pool  1774 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 49 du6 54 nw8 53 | 0.39s/it
+round    5 | pool  2212 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 50 du6 57 nw8 55 | 0.39s/it
+round    6 | pool  2645 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 50 du6 58 nw8 55 | 0.39s/it
+round    7 | pool  3059 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 51 du6 62 nw8 58 | 0.39s/it
+round    8 | pool  3481 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 53 du6 65 nw8 61 | 0.39s/it
+round    9 | pool  3900 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 53 du6 65 nw8 61 | 0.39s/it
+round   10 | pool  4314 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 54 du6 66 nw8 62 | 0.39s/it
+round   11 | pool  4727 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 55 du6 67 nw8 63 | 0.39s/it
+round   12 | pool  5142 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 55 du6 72 nw8 68 | 0.39s/it
+round   13 | pool  5555 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 55 du6 72 nw8 68 | 0.39s/it
+round   14 | pool  5977 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 55 du6 74 nw8 69 | 0.39s/it
+round   15 | pool  6403 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 55 du6 76 nw8 71 | 0.39s/it
+round   16 | pool  6823 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 55 du6 77 nw8 72 | 0.39s/it
+round   17 | pool  7248 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 58 du6 80 nw8 75 | 0.39s/it
+round   18 | pool  7673 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 58 du6 81 nw8 76 | 0.39s/it
+round   19 | pool  8096 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 58 du6 81 nw8 76 | 0.39s/it
+round   20 | pool  8192 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 58 du6 83 nw8 77 | 0.39s/it
+round   21 | pool  8192 u max  101.95 | best_c52 0 | c52d6 1 nld6 102 nw 59 du6 87 nw8 81 | 0.39s/it
+round   22 | pool  8192 u max  104.00 | best_c52 0 | c52d6 0 nld6 104 nw 59 du6 88 nw8 81 | 0.39s/it
+DONE champ_round=22 wall=8.6s
